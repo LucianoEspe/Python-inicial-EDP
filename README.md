@@ -1,5 +1,5 @@
-# Curso de Python Nivel Inicial
-
+# Curso de Python Nivel Inicial 
+![image](https://github.com/LucianoEspe/Python-inicial-EDP/assets/94081630/53f80af6-18e7-4871-91d1-94565962dc4a)
 ¡Bienvenido al repositorio del curso de Python Nivel Inicial!
 
 ## Descripción
